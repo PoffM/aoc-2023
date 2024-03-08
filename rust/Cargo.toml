@@ -1,5 +1,5 @@
 [workspace]
 
 members = [
-    "q6", "q7",
+    "q6", "q7", "q8",
 ]
